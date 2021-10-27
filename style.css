@@ -1,0 +1,332 @@
+h2{
+    margin-top: 1%;
+    text-align: center;
+}
+
+h4{
+    margin-top: 1%;
+    text-align: center;
+}
+/* Style the buttons */
+.btn {
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Style the active class (and buttons on mouse-over) */
+.active, .btn:hover {
+    background-color: #666;
+    color: white;
+}
+
+.text_school_info{
+    color: #036;
+}
+
+.text_school{
+    text-align: justify;
+}
+
+.emblem{
+    margin: auto;
+    min-width: 20mm;
+    width: 10%;
+    height: 20%;
+    padding: 10px;
+}
+
+.emblem img{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.logo_admin{
+    display: block;
+    margin: 1%;
+    text-align: right;
+    height: 10%;
+}
+
+.btn-outline-secondary{
+    margin: 1% ;
+}
+.input-group{
+    margin: 1%;
+
+}
+
+.form-control{
+    width: 50%;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    flex-basis: 120px;
+    justify-content: space-between;
+    align-items: stretch;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
+
+.map{
+    padding: 5%;
+    display: block;
+    text-align: center;
+    min-width: 455px;
+}
+
+@media (max-width: 300px) {
+    .map{
+        min-width: 250px;
+    }
+    .circle-stand{
+        fill: #004f86;
+
+    }
+
+    .circle-chosen{
+        fill: crimson;
+
+    }
+
+    .circle-added{
+        fill: #f8a5f8;
+
+    }
+}
+
+@media (max-width: 400px) and (min-width: 300px){
+    .content{
+        display: flex;
+        height: 100%;
+        justify-content: space-between;
+        align-items: stretch;
+        align-self: stretch;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .map{
+        min-width: 350px;
+        min-height: 200px;
+    }
+    .right-block{
+        margin-top: 5%;
+        overflow: auto;
+        height: 500px;
+    }
+    .circle-stand{
+        fill: #004f86;
+
+    }
+
+    .circle-chosen{
+        fill: crimson;
+
+    }
+
+    .circle-added{
+        fill: #f8a5f8;
+
+    }
+}
+
+@media (max-width: 650px) and (min-width: 401px){
+    .map{
+        min-width: 350px;
+        min-height: 200px;
+    }
+    .content{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: stretch;
+        align-self: stretch;
+
+    }
+
+    .right-block{
+        margin-top: 5%;
+        overflow: auto;
+        height: 100%;
+    }
+
+
+}
+
+
+.right-block{
+    height: 950px;
+    overflow:auto;
+    flex: 1 2 120px;
+    /*border: 3px solid red;*/
+}
+
+
+/* полоса прокрутки (скроллбар) */
+::-webkit-scrollbar {
+    width: 8px; /* ширина для вертикального скролла */
+    height: 8px; /* высота для горизонтального скролла */
+}
+
+/* ползунок скроллбара */
+::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    border-radius: 5em;
+    box-shadow: inset 1px 1px 10px #808080;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #808088;
+}
+
+/* Стрелки */
+
+::-webkit-scrollbar-button:vertical:start:decrement {
+    background: linear-gradient(120deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+    linear-gradient(240deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+    linear-gradient(0deg, #02141a 30%, rgba(0, 0, 0, 0) 31%);
+    background-color: #f6f8f4;
+}
+
+::-webkit-scrollbar-button:vertical:end:increment {
+    background:
+            linear-gradient(300deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+            linear-gradient(60deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+            linear-gradient(180deg, #02141a 30%, rgba(0, 0, 0, 0) 31%);
+    background-color: #f6f8f4;
+}
+
+
+
+.region{
+
+}
+
+
+svg{
+    text-align: center;
+}
+
+path{
+    fill:#B5E2FF;
+    stroke:#000000;
+    stroke-width:2;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    paint-order:markers stroke fill;
+    position: relative;
+}
+
+.list-group-item{
+    height: 55px;
+}
+
+.list-active-group-item{
+    background-color: #c0effa;
+    text-decoration: none;
+    color: black;
+}
+
+.list-group-item-active {
+    cursor: pointer;
+    background: #8ed1ff;
+    text-shadow: 0 0 10px #B5E2FF;
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+footer a {
+    background-color: #343a40;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer li{
+    padding-left: 5%;
+    font-size: 13px;
+    list-style-type: none;
+}
+footer p{
+    font-size: 13px;
+}
+
+footer ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+
+a{
+    color: #000;
+}
+
+.active {
+    background-color: #c0effa;
+    text-shadow: 0 0 10px #c0effa;
+    transition: all 0.15s;
+}
+
+.block {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100px;
+}
+
+.scheme-item {
+    position: absolute;
+    cursor: pointer;
+}
+.scheme-name {
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    line-height: 13px;
+}
+.scheme-popup {
+    display: none;
+    border: 1px solid #777;
+    padding: 10px;
+    width: 200px;
+    position: absolute;
+    font-size: 12px;
+    line-height: 14px;
+    background: #fff;
+    z-index: 9999;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-align: left;
+}
+
+.circle-stand{
+    fill:url(#pattern_stand);
+}
+
+.circle-hover{
+    fill:url(#pattern_hover);
+}
+
+.circle-chosen{
+    fill:url(#pattern_hover);
+}
+
+.circle-added{
+    fill:url(#pattern_added);
+}
+
+.point-school-normal{
+    fill:black;
+}
+

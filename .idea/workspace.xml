@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b957848f-8e68-4f19-8d26-01eeee1149bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/folkmap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db_art.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db_district.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db_districts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db_information.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db_picture_art.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/liv_history.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/liv_info.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/liv_today.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/m_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/m_inf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/m_today.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/n_hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/n_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/n_today.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/notfound.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/z_hist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/z_inf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/z_today.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/districts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/infoTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/information.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/titles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs/history.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs/info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs/today.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs/video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map-main/.idea/svg_map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/.idea/Messanger-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/Messanger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/commandlinetools/Laravel_21_04_2021__19_42.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Controllers/ChatController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Controllers/DocumentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Controllers/MessageController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Controllers/OtherFunctionalityController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Controllers/UserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/EnsureChatExists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/EnsureDocumentExists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/EnsureMessageExists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/EnsureUserExists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/EnsureUserIsAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Resources/ChatCollection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Resources/ChatResource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Resources/ChatTypeResource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Resources/MessageCollection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Http/Resources/UserResource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/Chat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/ChatType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/Document.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/Message.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/Role.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/UserChat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Models/UserChatPivot.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2021_05_11_154828_update_chat_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2021_05_11_155204_update_user_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2021_05_11_155239_update_user_chat_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2021_05_11_155310_update_message_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/migrations/2021_05_11_155337_update_document_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messanger-main/Messanger-main/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../localhost/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../localhost/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map/.idea/.idea/.idea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map/.idea/map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map/.idea/svg_map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map/map.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite1/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/.idea/folkmap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/.firebase/hosting.cHVibGlj.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/getting-started/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/folkmap/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../old map/folkmap/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ypBV9l00AoVhVA14Hm9pYaQPHA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\server\OpenServer\domains\folkmap\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b957848f-8e68-4f19-8d26-01eeee1149bd" name="Changes" comment="" />
+      <created>1632938672907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632938672907</updated>
+      <workItem from="1632938675923" duration="2871000" />
+      <workItem from="1633249976509" duration="5275000" />
+      <workItem from="1633268675782" duration="2349000" />
+      <workItem from="1633612800252" duration="1483000" />
+      <workItem from="1633623945377" duration="69000" />
+      <workItem from="1633695276251" duration="151000" />
+      <workItem from="1634389218761" duration="247000" />
+      <workItem from="1634471393132" duration="2509000" />
+      <workItem from="1634646972884" duration="11000" />
+      <workItem from="1635256021714" duration="465000" />
+      <workItem from="1635325847999" duration="16000" />
+      <workItem from="1635330674498" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
